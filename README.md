@@ -12,13 +12,11 @@
 2. [Architecture Overview](#architecture-overview)
 3. [System Design](#system-design)
 4. [Database Schema](#database-schema)
-5. [Implementation Status](#implementation-status)
-6. [Trade-offs & Decisions](#trade-offs--decisions)
-7. [Installation & Setup](#installation--setup)
-8. [Running the Application](#running-the-application)
-9. [API Documentation](#api-documentation)
-10. [Project Structure](#project-structure)
-11. [Key Features](#key-features)
+5. [Installation & Setup](#installation--setup)
+6. [Running the Application](#running-the-application)
+7. [API Documentation](#api-documentation)
+8. [Project Structure](#project-structure)
+9. [Key Features](#key-features)
 
 ---
 
